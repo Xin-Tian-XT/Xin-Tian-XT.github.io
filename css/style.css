@@ -500,6 +500,10 @@ figure {
   color:#0b8bbb;
   margin:0 0 0 0px;
 }
+#content #cv-section-item #cv-section-item-content h4.papername{
+  font-size:18px;
+  margin:0 0 0 0px;
+}
 #content #cv-section-item #cv-section-item-content h4.authors{
   font-size:18px;
   color:#777;
